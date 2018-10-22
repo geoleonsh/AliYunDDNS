@@ -9,10 +9,10 @@ from alidns import ManageDNS
 西窗浪人，版权所有，https://www.bigxd.com
 '''
 # 设置阿里云的域名、DNS记录、AccessKeyId和AccessKeySecret
-AccessKeyId = 'LTAIZRdbA8LJHPYC'
-AccessKeySecret = 'yPSMnt5LpSSgZw0jXPdmzHO2MEtbXJ'
-Domain = 'waxn.top'
-Value = 'wfffw'
+AccessKeyId = 'AAAAAA'
+AccessKeySecret = '123456'
+Domain = 'bigxd.com'
+Value = 'www'
 # 记录类型如果是ipv4地址，则为"A"，保持默认即可
 Type = 'A'
 
